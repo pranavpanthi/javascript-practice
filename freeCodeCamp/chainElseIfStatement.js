@@ -17,4 +17,5 @@ console.log(testSize(7));
 console.log(testSize(13));
 console.log(testSize(18));
 console.log(testSize(25));
+console.log(testSize(50));
 
