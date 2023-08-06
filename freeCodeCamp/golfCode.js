@@ -17,4 +17,4 @@ function golfScore(par, strokes) {
     }
 }
 
-console.log(golfScore(5, 4));
+console.log(golfScore(5, 1));
