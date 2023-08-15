@@ -23,4 +23,3 @@ function sequentialSizes(val) {
 console.log(sequentialSizes(1));
 console.log(sequentialSizes(5));
 console.log(sequentialSizes(8));
-
